@@ -1,0 +1,9 @@
+Hi this is a session from Edureka
+
+NB. git works into the three logical areas, 
+
+1. Working directory
+2. Staging area
+3. Local repository
+
+all the edited files will be present in your working directory
